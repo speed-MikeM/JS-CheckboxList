@@ -127,8 +127,8 @@ This product is very simple to use. All you need to do is keep your current codi
   </checkbox-list>
   ```
   [See this library with the above examples in action with JSFiddle][checkbox-list JSFiddle]
-  [See this library with the above examples in action with GitHub Pages][checkbox-list github pages]
   
+  [See this library with the above examples in action with GitHub Pages][checkbox-list github pages]
   
   as said before `<checkbox-list>` may also be `<div id="checkboxList">` OR `<div class="checkboxList">`
 </details>
