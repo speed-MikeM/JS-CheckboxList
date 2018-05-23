@@ -1,0 +1,14 @@
+#checkboxList, .checkboxList, checkbox-list{
+  display:block;
+  overflow-x: auto;
+}
+
+#checkboxList ul, .checkboxList ul, checkbox-list ul{
+  list-style: none;
+}
+
+#checkboxList input[type='checkbox'], .checkboxList input[type='checkbox'],
+checkbox-list input[type='checkbox'],
+#checkboxList label, .checkboxList label, checkbox-list label{
+  cursor: pointer;
+}
