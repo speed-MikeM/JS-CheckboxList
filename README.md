@@ -64,8 +64,8 @@ Com'on this is just a JavaScript Library, shouldn't be that hard mate... Anyways
 * Include them into your browser using:
 
   ```
-  <link type="text/css" rel="stylesheet" href="<?= _URL ?>/css/libs/checkboxList.css" />
-  <script type="text/javascript" src="<?= _URL ?>/js/libs/checkboxList.js"></script>
+  <link type="text/css" rel="stylesheet" href="/css/libs/checkboxList.css" />
+  <script type="text/javascript" src="/js/libs/checkboxList.js"></script>
   ```
   
 * Enjoy
