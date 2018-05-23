@@ -1,6 +1,8 @@
 <h1>JS-CheckboxList</h1>
 A checkbox list with plain javascript, parent and child checkboxes adapts the checkstate when required.
 
+<a href="https://speed-mikem.github.io/JS-CheckboxList/docs/index" target="_blank">Please click here for the documentation page</a>
+
 <details>
   <summary>This library works perfectly with extendedElements.js!</summary>
   ExtendedElements JS is a javascript library also created by me which will create prototype methods and attributes which are usefull yet using plain old javascript.
@@ -132,3 +134,6 @@ This product is very simple to use. All you need to do is keep your current codi
   
   as said before `<checkbox-list>` may also be `<div id="checkboxList">` OR `<div class="checkboxList">`
 </details>
+
+
+<a href="https://speed-mikem.github.io/JS-CheckboxList/docs/index" target="_blank">Please click here for the documentation page</a>
