@@ -126,12 +126,9 @@ This product is very simple to use. All you need to do is keep your current codi
     </ul>
   </checkbox-list>
   ```
-  [See this library with the above examples in action with JSFiddle][checkbox-list JSFiddle]
+  <a href="https://jsfiddle.net/maujohtb/" target="_blank" >See this library with the above examples in action with JSFiddle</a>
   
-  [See this library with the above examples in action with GitHub Pages][checkbox-list github pages]
+  <a href="https://speed-mikem.github.io/JS-CheckboxList/example" target="_blank" >See this library with the above examples in action with GitHub Pages</a>
   
   as said before `<checkbox-list>` may also be `<div id="checkboxList">` OR `<div class="checkboxList">`
 </details>
-
-[checkbox-list github pages]: https://speed-mikem.github.io/JS-CheckboxList/example
-[checkbox-list JSFiddle]: https://jsfiddle.net/maujohtb/
