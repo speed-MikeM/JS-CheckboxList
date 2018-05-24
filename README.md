@@ -1,7 +1,7 @@
 <h1>JS-CheckboxList</h1>
 A checkbox list with plain javascript, parent and child checkboxes adapts the checkstate when required.
 
-<a href="https://speed-mikem.github.io/JS-CheckboxList/docs/index" target="_blank">Please click here for the documentation page</a>
+<a href="https://speed-mikem.github.io/JS-CheckboxList/" target="_blank">Please click here for the documentation page</a>
 
 <details>
   <summary>This library works perfectly with extendedElements.js!</summary>
@@ -136,4 +136,4 @@ This product is very simple to use. All you need to do is keep your current codi
 </details>
 
 
-<a href="https://speed-mikem.github.io/JS-CheckboxList/docs/index" target="_blank">Please click here for the documentation page</a>
+<a href="https://speed-mikem.github.io/JS-CheckboxList/index" target="_blank">Please click here for the documentation page</a>
